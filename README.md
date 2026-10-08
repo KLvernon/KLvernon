@@ -1,10 +1,9 @@
-## Hi there 👋
+<h1>Hi, I'm Kevin Vernon 👋</h1>
 
-<!--
-**KLvernon/KLvernon** is a ✨ AI Automation & Agentic Systems Engineer focused on designing reliable AI-powered business systems. ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm an ✨ <strong>AI Automation &amp; Agentic Systems Engineer</strong> focused on designing reliable AI-powered business systems. ✨</p>
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Agent Engineering with an Middle East focused education vertical in mind
-- 📫 How to reach me: kvernon79@yahoo.com
-- ⚡ Fun fact: Emu Dads incubate eggs and raise their kids solo for 18 months
+<ul>
+  <li>🌱 I'm currently learning Agent Engineering with a Middle East focused education vertical in mind</li>
+  <li>📫 How to reach me: <a href="mailto:kvernon79@yahoo.com">kvernon79@yahoo.com</a></li>
+  <li>⚡ Fun fact: Emu Dads incubate eggs and raise their kids solo for 18 months</li>
+</ul>
